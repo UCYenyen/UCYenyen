@@ -48,6 +48,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/UCYenyen/UCYenyen/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="500" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb"  />
+</div>
 
 ###
