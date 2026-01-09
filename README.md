@@ -143,14 +143,8 @@ HTML
 
 <div align="center">
   <h3>📊 GitHub Stats:</h3>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ucyenyen&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  
   <img src="https://nirzak-streak-stats.vercel.app/?user=ucyenyen&theme=dark&hide_border=false" alt="Streak Stats" />
   <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ucyenyen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
 </div>
 
 <div align="center">
