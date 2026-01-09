@@ -138,7 +138,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=ucyenyen&theme=dark&hide_border=false" alt="Streak Stats" />
   <br/>
 </div>
-###
 
 ###
 <div align="center">
