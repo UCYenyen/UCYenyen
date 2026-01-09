@@ -132,12 +132,10 @@
 
 ###
 
-<div align="center">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ucyenyen&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ucyenyen&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ucyenyen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
 
 <div align="center">
   <img height="400" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb"  />
