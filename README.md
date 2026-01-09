@@ -131,8 +131,6 @@
 <h3 align="center">STATS</h3>
 
 ###
-
-# 📊 GitHub Stats:
 <div align="center">
   <h3>📊 GitHub Stats:</h3>
   <img src="https://nirzak-streak-stats.vercel.app/?user=ucyenyen&theme=dark&hide_border=false" alt="Streak Stats" />
