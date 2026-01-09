@@ -133,20 +133,14 @@
 ###
 
 # 📊 GitHub Stats:
-Maaf kalau cara sebelumnya membuat gambarnya hilang. Hal ini biasanya terjadi karena GitHub terkadang "bingung" membaca format Markdown (![]) jika ditaruh di dalam tag HTML (<div>).
-
-Solusi paling ampuh adalah mengubah semua format gambarnya menjadi HTML biasa (<img src="...">).
-
-Silakan copy-paste kode di bawah ini, ini pasti jalan:
-
-HTML
-
 <div align="center">
   <h3>📊 GitHub Stats:</h3>
   <img src="https://nirzak-streak-stats.vercel.app/?user=ucyenyen&theme=dark&hide_border=false" alt="Streak Stats" />
   <br/>
 </div>
+###
 
+###
 <div align="center">
   <img height="400" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb"  />
 </div>
